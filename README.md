@@ -46,7 +46,7 @@ You should set `<your_available_gpu_ids>` and `<your_base_dir>`.
 Download the fine-tuned model and put it under the corresponding folder.
 
 | Dataset | #Train | Model | Folder |
-|-------|--------|--------|---------|---------|-----------------------|----------------|
+|-------|--------|--------|---------|
 | Spider | 0.05 (350) | [link](https://drive.google.com/drive/folders/1b-16LFsnVMC5U2JxRew9nKtdOIhVr46j?usp=share_link) | experimental_outputs/spider/ |
 | Spider | 0.1 (700) | [link](https://drive.google.com/drive/folders/16qcI-zcahpB-Y6BUyizLmt3-EMP8_sM7?usp=share_link) | experimental_outputs/spider/ |
 | CoSQL | 0.05 (475) | [link](https://drive.google.com/drive/folders/1DxNdW5oBMQgYm7GE_VfvT9lFrJLcCpLs?usp=share_link) | experimental_outputs/cosql/ |
